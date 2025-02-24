@@ -4,7 +4,7 @@ Este servicio utiliza el Terminology Kit de WHOA y Alfa Beta para realizar búsq
 
 ## Cómo ejecutar el servicio
 
-Para iniciar el servicio, ejecute el siguiente comando. Previamente modificar las variables de entorno.
+Para iniciar el servicio, ejecute el siguiente comando. **Previamente modificar las variables de entorno (archivo .env)**
 
 ```sh
 docker-compose up -d
